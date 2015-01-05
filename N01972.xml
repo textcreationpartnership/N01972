@@ -107,9 +107,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002343_0000_0FDBCCA72BCDE5D0"/>
-            <pb facs="tcp:002343_0001_0FDBCC90F1B31178" rendition="simple:additions"/>
-            <pb n="1" facs="tcp:002343_0002_0FDBCC9349427BC0"/>
+            <pb facs="unknown:002343_0000_0FDBCCA72BCDE5D0"/>
+            <pb facs="unknown:002343_0001_0FDBCC90F1B31178"
+                rendition="simple:additions"/>
+            <pb n="1" facs="unknown:002343_0002_0FDBCC9349427BC0"/>
             <p>A TREATY OF Peace and Friendſhip Made and Concluded between His Excellency Sir WILLIAM KEITH, Bart. Governor of the Province of <hi>PENNSYLVANIA,</hi> For and on Behalf of the ſaid Province, AND THE Chiefs of the Indians of the Five Nations, At <hi>ALBANY,</hi> in the Month of <hi>September,</hi> 1722.</p>
             <p>
                <hi>PHILADELPHIA:</hi> Printed by <hi>Andrew Bradford,</hi> at the BIBLE in the Second Street; MDCCXXII.</p>
@@ -117,7 +118,7 @@
       </front>
       <body>
          <div type="text">
-            <pb n="2" facs="tcp:002343_0003_0FDBCC9582BEC628"/>
+            <pb n="2" facs="unknown:002343_0003_0FDBCC9582BEC628"/>
             <opener>
                <dateline>
                   <date>Septem. 27, 1722.</date>
@@ -144,7 +145,7 @@
             <p>
                <hi>The Governor's Speech was in the following Words, Interpreted by</hi> James le Tort, <hi>and an</hi> Indian <hi>from</hi> Saſquehannah <hi>call'd</hi> Capt. Smith, <hi>whom the Governor took with him, together with</hi> Satcheechoe, <hi>the Meſſenger, who had been twice ſent to the</hi> Five Nations.</p>
             <q>
-               <pb n="3" facs="tcp:002343_0004_0FDBCC97C1257CD0"/>
+               <pb n="3" facs="unknown:002343_0004_0FDBCC97C1257CD0"/>
                <floatingText xml:lang="unk">
                   <body>
                      <div type="speech">
@@ -159,7 +160,7 @@
                         <p>Laſt Summer the wiſe and good Man <hi>Geſaont,</hi> with ſome others of your People, came, in the Name of all the <hi>Five Nations,</hi> to viſit us at <hi>Coneſtogoe</hi>
                            <g ref="char:punc">▪</g> We received them with Joy, and opened our Hearts to each other. He rejoyced to ſee us and our <hi>Indians</hi> live in ſo much Love together. We then brightned the Chain, that it might be clear, ſtrong and laſting as the Sun and Stars. But when we heard that <hi>Geſaont</hi> died in <hi>Virginia,</hi> we were very ſorry; yet I hope the <hi>Five Nations</hi> received my Words of Love and Friendſhip to their <hi>Sachims,</hi> and to all their People, with the Golden Medal and the Preſents then delivered.</p>
                         <p>It was then ſtipulated and agreed between us, That we ſhould all be as one People; That the <hi>Five Nations</hi> ſhould not do an Injury to any
-<pb n="4" facs="tcp:002343_0005_0FDBCC9AAF44EFD8"/>
+<pb n="4" facs="unknown:002343_0005_0FDBCC9AAF44EFD8"/>
 of us more than to themſelves; and that we ſhould not do an Injury to any of the <hi>Five Nations</hi> more than to our own People: Or, if any Perſon did ſuch Injury, they ſhould be puniſhed for it in the ſame Manner as if done to an <hi>Engliſhman.</hi>
                         </p>
                         <p>Since that Time a very unhappy Accident has fallen out, which gave us great Grief: Laſt Winter we heard, that one of the <hi>Five Na<g ref="char:EOLhyphen"/>tions</hi> had loſt his Life by Means of ſome of our People.</p>
@@ -179,7 +180,7 @@ of us more than to themſelves; and that we ſhould not do an Injury to any of t
                               <desc>••</desc>
                            </gap>ction may burn clear in our Breaſts.</p>
                         <p>
-                           <pb n="5" facs="tcp:002343_0006_0FDBCC9E748DD3B0"/>
+                           <pb n="5" facs="unknown:002343_0006_0FDBCC9E748DD3B0"/>
 I have brought theſe Goods with me to bind my Words, <hi>viz. Five Pieces</hi> of <hi>Strouds</hi> for Cloathing, <hi>Five Casks of Powder</hi> and <hi>Five Hundred Weight of Lead</hi> to encourage your Hunting, that you may grow rich and ſtrong. And I deſire you may receive them as a Pledge of our firm Reſolutions to live in Perpetual Peace, and under the ſtrongeſt Ties of Friendſhip with the <hi>Five Nations</hi>; that you will ever remember us as your Brethren, and not ſuffer your young Men, when they travel, to hurt any of our Inhabitants, no more than they would their own, or to kill their Cattle and Stock: And that this Viſit, and the Cove<g ref="char:EOLhyphen"/>nant-Chain which is hereby brightned, may be recorded in everlaſting Remembrance, to be ſent down to your and our Children, and to our Children's Children, to laſt as long as the Mountains and Rivers, and the Sun and Moon ſhall endure.</p>
                         <p>I alſo give you theſe two Pieces of <hi>Blankets,</hi> to wipe away and to dry up the Blood that has been ſpilt, and to cover it ſo as that it may never be ſeen or heard of any more.</p>
                         <p>I live at a great Diſtance from the Brethren, and perhaps may never ſee ſo many of your grave ancient Men together again; I will there<g ref="char:EOLhyphen"/>fore, like a true Brother, leave with you my beſt Advice, for the Happineſs and Welfare of all your People: And as oft as you look upon thoſe two Belts remember,<note place="margin">Two Belts ſaid down</note> that <hi>This One ſignifies the Strength which a wiſe Nation acquires and ſecures to its People by peaceable Councils; and encreaſing the Number of its Friends:</hi> And this other Belt repreſents to you <hi>A bold, firm, true Heart, that abhors Falſhhood, but is ever faithful to its Friends, and punctually obſerves whatſoever it promiſes.</hi>
@@ -212,7 +213,7 @@ I have brought theſe Goods with me to bind my Words, <hi>viz. Five Pieces</hi> 
                            </item>
                         </list>
                         <list>
-                           <pb n="6" facs="tcp:002343_0007_0FDBCCA310E16170"/>
+                           <pb n="6" facs="unknown:002343_0007_0FDBCCA310E16170"/>
                            <head>Eſqrs. Commiſſioners of the <hi>Indian</hi> Affairs.</head>
                            <item>Col. <hi>Peter Schuyler,</hi>
                            </item>
@@ -255,7 +256,7 @@ I have brought theſe Goods with me to bind my Words, <hi>viz. Five Pieces</hi> 
                               <hi>Brother Onas,</hi>
                            </p>
                            <p>III. You have likewiſe told us, How <hi>William Penn,</hi> who was a good Man, did, at his firſt Settlement of the Province of <hi>Pennſyl<g ref="char:EOLhyphen"/>vania,</hi> make Leagues of Friendſhip with the <hi>Indians,</hi> and treated them like Brethren; and that, like the ſame good Man, he left it in Charge to all his Governors who ſhould ſucceed him, and to all the People of <hi>Pennſylvania,</hi> that they ſhould always keep the Covenant and Treaties he had made with the <hi>Five Nations,</hi> and treat them with Love and Kindneſs. We acknowledge that his Governors and People have always kept the ſame honeſtly and truly to this Day: So we on our Part always have kept, and for ever ſhall keep, firm Peace and Friendſhip, with a good Heart, to all the People of <hi>Penn<g ref="char:EOLhyphen"/>ſylvania.</hi> We thankfully receive and approve of all the Articles in your Propoſition to us, and acknowledge them to be good and full of Love: We receive and approve of the ſame with our whole
-<pb n="7" facs="tcp:002343_0008_0FDBCC8EE20DD988"/>
+<pb n="7" facs="unknown:002343_0008_0FDBCC8EE20DD988"/>
 Hearts, becauſe we are not only made one People by the Covenant<g ref="char:punc">▪</g> Chain, but we alſo are People united in One Head, One Body and One Heart, by the ſtrongeſt Ties of Love and Friendſhip.</p>
                            <p>
                               <hi>Brother Onas,</hi>
@@ -275,7 +276,7 @@ Hearts, becauſe we are not only made one People by the Covenant<g ref="char:pun
                         <p>Then the Governor expreſs'd his Satisfaction with their Anſwer; and gave them Thanks for their Good Will and Love to Him, and the People of <hi>Pennſylvania.</hi>
                         </p>
                         <p>The <hi>Indians</hi> then deſired to know of the Governor, <hi>If the Men who were in Priſon for Killing their Friend and Brother were diſcharged?</hi> To which the Governor anſwered, That "they were let out upon Bail."
-<pb n="8" facs="tcp:002343_0009_0FDBCCAC5312A8F0"/>
+<pb n="8" facs="unknown:002343_0009_0FDBCCAC5312A8F0"/>
 They then deſired, That <hi>the Men might be diſcharged:</hi> To which the Governor anſwered, That as ſoon as he returned to <hi>Philadelphia,</hi> he would give ſuch Orders in that Affair, as ſhould fully Anſwer the Requeſt of the <hi>Five Nations,</hi> in Order to confirm the Friendſhip that is ſo happily renewed and eſtabliſhed by this Treaty.</p>
                         <closer>
                            <signed>
